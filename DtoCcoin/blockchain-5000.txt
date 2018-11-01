@@ -1,6 +1,0 @@
-[{"index": 0, "previous_hash": "", "transactions": [], "tagsactions": [], "messsactions": [], "account": [], "proof": 100, "timestamp": 0}]
-[]
-[]
-[]
-[]
-["10.0.2.204:5000"]
